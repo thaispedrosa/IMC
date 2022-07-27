@@ -1,4 +1,4 @@
-Cálculadora de IMC
+Calculadora de IMC
 
 1. Preencha com seu nome
 
